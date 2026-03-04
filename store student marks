@@ -1,0 +1,10 @@
+marks = [85, 90, 78, 92]
+
+average = sum(marks) / len(marks)
+print("Average:", average)
+
+OUTPUT:
+
+Average: 86.25
+
+=== Code Execution Successful ===
